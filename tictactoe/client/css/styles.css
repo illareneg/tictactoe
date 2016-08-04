@@ -1,0 +1,33 @@
+.table
+{
+	margin:0 auto;
+	width:600px;
+	height:600px;
+	display:table;
+}
+.row
+{
+	width:600px;
+	height:200px;
+	display:table-row;
+}
+.cell, canvas
+{
+	width:200px;
+	height:200px;
+	display:table-cell;
+}
+#topsquare, #bottomsquare
+{
+	border-left:1px solid black;
+	border-right:1px solid black;
+}
+#leftsquare, #rightsquare
+{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+}
+#middlesquare
+{
+	border:1px solid black;
+}
