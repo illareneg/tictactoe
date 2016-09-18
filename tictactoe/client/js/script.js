@@ -59,8 +59,7 @@ function createCanvas()
 }
 
 function clickCell(cell)
-{
-	
+{	
 }
 
 function drawCircle(cell)
